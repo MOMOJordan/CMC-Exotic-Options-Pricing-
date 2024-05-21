@@ -1,0 +1,3 @@
+/Users/jordan/Documents/dailyC/cmake-build-debug/CMakeFiles/dailyC.dir
+/Users/jordan/Documents/dailyC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jordan/Documents/dailyC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
