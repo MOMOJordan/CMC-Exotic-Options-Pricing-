@@ -1,1 +1,1 @@
-C++ code to price exotic options
+C++ code to price exotic options using Monte Carlo
